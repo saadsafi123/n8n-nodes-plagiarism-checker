@@ -1,0 +1,24 @@
+{
+    "node": "n8n-nodes-base.PlagiarismChecker",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": [
+        "Data & AI",
+        "Utility"
+    ],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": "https://docs.mongodb.com/drivers/node/current/"
+            },
+            {
+                "url": "https://rapidapi.com/smodin/api/plagiarism-checker-and-auto-citation-generator-multi-lingual"
+            }
+        ],
+        "primaryDocumentation": [
+            {
+                "url": "https://github.com/your-organization/n8n-nodes-plagiarism-checker"
+            }
+        ]
+    }
+}
